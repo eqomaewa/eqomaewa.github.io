@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://eqomaewa.github.io/HTk/sitemap_index.txt
+Sitemap: https://eqomaewa.github.io/mac/sitemap_index.txt
+Sitemap: https://eqomaewa.github.io/mkK/sitemap_index.txt
+Sitemap: https://eqomaewa.github.io/uYX/sitemap_index.txt
